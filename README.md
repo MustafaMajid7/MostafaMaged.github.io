@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <img src="./readme-images/Logo.png" />
+  <img src="./readme-images/Logo.PNG" />
 
   
   <h2 align="center">Mostafa - Personal portfolio</h2>
@@ -24,7 +24,7 @@
 
 ### Demo Screeshots
 
-![Mostafa Portfolio Desktop Demo](./readme-images/Cover.png "Desktop Demo")
+![Mostafa Portfolio Desktop Demo](./readme-images/Cover.PNG "Desktop Demo")
 
 ### Prerequisites
 
