@@ -8,6 +8,9 @@
 
   <br />
   <br />
+
+  <img src="./readme-images/Logo.png" />
+
   
   <h2 align="center">Mostafa - Personal portfolio</h2>
 
@@ -21,7 +24,7 @@
 
 ### Demo Screeshots
 
-![Mostafa Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Mostafa Portfolio Desktop Demo](./readme-images/Cover.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -47,7 +50,7 @@ git clone https://github.com/MustafaMajid7/MustafaMajid7.github.io.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.linkedin.com/in/mostafa-maged-035a8320a/).
+If you want to contact with me you can reach me at [Linked-IN](https://www.linkedin.com/in/mostafa-maged-035a8320a/).
 
 ### License
 
